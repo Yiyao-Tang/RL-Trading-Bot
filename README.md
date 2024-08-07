@@ -1,6 +1,7 @@
 
 # **Project Overview**
 
+For full report please click https://docs.google.com/document/d/1sdMdDhrtC5DwCfFE9Bdue8efvcfcqG-nwcZeqTjx5yU/edit?usp=sharing
 ### **1.Objective**
 
 This project is a part of my Final Year Project at NTU, and the goal of this project was to design a trading bot which makes long and short order decisions on its own. Deep Q-Learning algorithm was adopted to design the trading bot and the trading bot’s performance was evaluated through backtesting in the SGX market.
